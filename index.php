@@ -1,2 +1,2 @@
-hi!!
-hello!!!
+say hi!!
+say hello!!!
